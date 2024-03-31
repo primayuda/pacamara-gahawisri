@@ -2,7 +2,7 @@ export default {
     title: "Gahawisri",
     titleSuffix: " | Labuan Bajo",
     description: "Gabungan Usaha Wisata Bahari dan Tirta Indonesia",
-    defaultOgImage: "./defaultog.jpg",
+    defaultOgImage: "./defaultog.png",
     latestPosts: 3,
     postsPerPage: 3,
     url: "https://pacamara-astro-6y7xr.kinsta.page",
