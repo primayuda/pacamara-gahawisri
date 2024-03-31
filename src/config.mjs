@@ -1,7 +1,7 @@
 export default {
-    title: "Homepage",
-    titleSuffix: " | Pacamara ☕",
-    description: "Aromatic brew, pure indulgence, exquisite satisfaction.Default description",
+    title: "Gahawisri",
+    titleSuffix: " | Labuan Bajo",
+    description: "Gabungan Usaha Wisata Bahari dan Tirta Indonesia",
     defaultOgImage: "./defaultog.jpg",
     latestPosts: 3,
     postsPerPage: 3,
