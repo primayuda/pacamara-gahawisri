@@ -1,9 +1,8 @@
 # ☕ Pacamara - a blog theme for Astro
 **Pacamara** is a simple blog theme for **Astro** that uses `md` and `mdx` files to store your content.
 
-You can see it live in action [**here**](https://pacamara-astro-6y7xr.kinsta.page/).
+Gahawisri Labuan Bajo website
 
-![Pacamara demo screen](https://github.com/palmiak/pacamara-astro/assets/2342458/9fbe8655-ee60-4c37-8bf3-eae0cca57d91)
 
 ## Features
 - Dark & Light mode support
